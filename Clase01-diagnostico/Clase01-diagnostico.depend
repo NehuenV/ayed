@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1596928236 source:c:\users\nehuen\desktop\ayed\clase01\clase01-diagnostico\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Sucursal.h"
+	"Metodos.h"
+
+1596923590 source:c:\users\nehuen\desktop\ayed\clase01\clase01-diagnostico\sucursal.cpp
+	<iostream>
+	<sstream>
+	"Sucursal.h"
+
+1596923527 c:\users\nehuen\desktop\ayed\clase01\clase01-diagnostico\sucursal.h
+	<string>
+
+1596928145 source:c:\users\nehuen\desktop\ayed\clase01\clase01-diagnostico\metodos.cpp
+	"Metodos.h"
+
+1596927258 c:\users\nehuen\desktop\ayed\clase01\clase01-diagnostico\metodos.h
+	"Sucursal.h"
+
